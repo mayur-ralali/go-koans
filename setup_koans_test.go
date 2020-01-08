@@ -38,7 +38,7 @@ func TestKoans(t *testing.T) {
 	aboutInterfaces()
 	// aboutCommonInterfaces()
 	aboutMaps()
-	// aboutPointers()
+	aboutPointers()
 	// aboutStructs()
 	// aboutAllocation()
 	// aboutChannels()
