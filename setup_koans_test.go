@@ -31,7 +31,7 @@ func TestKoans(t *testing.T) {
 	aboutTypes()
 	aboutControlFlow()
 	aboutEnumeration()
-	// aboutAnonymousFunctions()
+	aboutAnonymousFunctions()
 	// aboutVariadicFunctions()
 	// aboutDefer()
 	// aboutFiles()
